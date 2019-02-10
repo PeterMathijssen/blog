@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>App Inventor Cookbook</title>
+    <link href="http://github.com/PeterMathijssen/blog/feed.xml" rel="self" />
+    <link href="http://github.com/PeterMathijssen/blog" />
+    <updated>2019-02-10T13:10:53+01:00</updated>
+    <author>
+        <name>Peter Mathijssen</name>
+    </author>
+    <id>http://github.com/PeterMathijssen/blog</id>
+
+    <entry>
+        <title>Cactus Hunt</title>
+        <author>
+            <name>Peter Mathijssen</name>
+        </author>
+        <link href="http://github.com/PeterMathijssen/blog/cactus-hunt.html"/>
+        <id>http://github.com/PeterMathijssen/blog/cactus-hunt.html</id>
+
+        <updated>2019-02-10T13:10:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://github.com/PeterMathijssen/blog/media/posts/1/publii.png" alt="" />
+                    There are three sizes of cactuses. Depending on which one you click&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://github.com/PeterMathijssen/blog/media/posts/1/publii.png" alt="" />
+                <p>There are three sizes of cactuses. Depending on which one you click you get 1, 2 or 3 points. Pressing reset restarts the count at zero.</p>
+<p>The phone screams when you touch a cactus. Phones can’t deliver an electric shock yet, else that would have been an option. ;-)</p>
+<p>You are allowed to use the sounds and images.</p>
+<p>All images are from <a href="http://www.pixabay.com/">www.pixabay.com</a> and are in the public domain.</p>
+<p>Sound are from here <a href="https://freesound.org/people/jorickhoofd/sounds/180345/">https://freesound.org/people/jorickhoofd/sounds/180345/</a> with atribution https://creativecommons.org/licenses/by/3.0/</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999316.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999316-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">The layout i made</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999317.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999317-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">All the components i used</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999318.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999318-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">All the assets i used</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999319.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999319-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Defining lists</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999309.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999309-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">What should happen when the app opens</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999315.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999315-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Add to score depending on the size of the cactus. Play a sound</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999314.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999314-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">What if you only hit the canvas</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999313.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999313-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Update score</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999312.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999312-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Ask to reset the score</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999311.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999311-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">What if yes is choosen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999310.png" ><img src="http://github.com/PeterMathijssen/blog/media/posts/1/gallery/Selection_999310-thumbnail.png" alt="" width="240" height="240"></a>
+<figcaption class="gallery-description">Put a cactus random on the canvas</figcaption>
+</figure>
+</div>
+<p><a href="https://github.com/PeterMathijssen/aia/blob/master/cactushunt.aia">Download</a> AIA file</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
