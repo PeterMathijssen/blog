@@ -14,7 +14,7 @@
             "url": "http://blog.petermathijssen.nl/app-inventor-blocks-in-svg.html",
             "title": "App Inventor blocks in SVG",
             "summary": "SVG versions of the App Inventorblocks to be used in tutorials or&hellip;",
-            "content_html": "<p>SVG versions of the App Inventorblocks to be used in tutorials or in the classroom.</p>\n<p><img class=\"post__image\" src=\"http://blog.petermathijssen.nl/media/posts/2/blockspublii.png\" alt=\"\" width=\"799\" height=\"734\"></p>\n<p>Font used is <a href=\"https://www.dafont.com/digitalt.font\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.dafont.com/digitalt.font</a></p>\n<p><a href=\"https://github.com/PeterMathijssen/appinventorblocks\" target=\"_blank\" rel=\"noopener noreferrer\">LINK TO SVG FILES ON GITHUB</a></p>",
+            "content_html": "<p>SVG versions of the App Inventorblocks to be used in tutorials or in the classroom.</p>\n<p>Font used is <a href=\"https://www.dafont.com/digitalt.font\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.dafont.com/digitalt.font</a></p>\n<p><a href=\"https://github.com/PeterMathijssen/appinventorblocks\" target=\"_blank\" rel=\"noopener noreferrer\">LINK TO SVG FILES ON GITHUB</a></p>",
             "image": "http://blog.petermathijssen.nl/media/posts/2/blockspublii.png",
             "author": {
                 "name": "Peter Mathijssen"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-02-10T17:05:29+01:00",
-            "date_modified": "2019-02-10T17:13:21+01:00"
+            "date_modified": "2019-02-10T17:49:39+01:00"
         },
         {
             "id": "http://blog.petermathijssen.nl/cactus-hunt.html",
