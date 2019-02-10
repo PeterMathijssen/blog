@@ -12,7 +12,7 @@
         {
             "id": "http://blog.petermathijssen.nl/aia-file-structur.html",
             "url": "http://blog.petermathijssen.nl/aia-file-structur.html",
-            "title": "AIA-file structur",
+            "title": "AIA-file structure",
             "summary": "App inventor allows users to download the project files (or source file)&hellip;",
             "content_html": "<p>App inventor allows users to download the project files (or source file) for their projects, which can then be reloaded. </p>\n<p>The aia-file is a zip-file with a different extension. In some cases you will have to rename the aia-file to a zip-file to open it with an archive manager. </p>\n<p>The assets folders hold all files that have been uploaded to the project as an asset. If no assets are associated with a project then there will be no assets folder.<br>If you import an extension a folder named external_comps will be created inside the assets folder. The extension will be uploaded to the external_comps folder. There will be a folder created inside the external_comps folder for every extension.<br><br>The src/appinventor/[username]/[example] folder holds a .blk file and a .scm file for every screen in the project. For example every project will have a Screen1.blk file and a Screen1.scm file. The Screen1.blk file holds all information about the blocks associated with Screen1 and the Screen1.scm file holds information about the layout of Screen1.<br><br>The youngandroidproject folder holds only one file, the project.properties file. This file holds basic information<br>about the project, such as name, main screen and file structure.</p>",
             "image": "http://blog.petermathijssen.nl/media/posts/3/aiafilestructure.png",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-02-10T18:03:00+01:00",
-            "date_modified": "2019-02-10T18:03:00+01:00"
+            "date_modified": "2019-02-10T18:09:50+01:00"
         },
         {
             "id": "http://blog.petermathijssen.nl/app-inventor-blocks-in-svg.html",
@@ -50,9 +50,10 @@
                 "name": "Peter Mathijssen"
             },
             "tags": [
+                   "aia-file"
             ],
             "date_published": "2019-02-10T12:23:30+01:00",
-            "date_modified": "2019-02-10T17:06:01+01:00"
+            "date_modified": "2019-02-10T18:07:55+01:00"
         }
     ]
 }

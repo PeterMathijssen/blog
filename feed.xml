@@ -3,21 +3,21 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-02-10T18:03:47+01:00</updated>
+    <updated>2019-02-10T18:09:54+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
     <id>http://blog.petermathijssen.nl</id>
 
     <entry>
-        <title>AIA-file structur</title>
+        <title>AIA-file structure</title>
         <author>
             <name>Peter Mathijssen</name>
         </author>
         <link href="http://blog.petermathijssen.nl/aia-file-structur.html"/>
         <id>http://blog.petermathijssen.nl/aia-file-structur.html</id>
 
-        <updated>2019-02-10T18:03:00+01:00</updated>
+        <updated>2019-02-10T18:09:50+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/3/aiafilestructure.png" alt="" />
@@ -64,8 +64,9 @@
         </author>
         <link href="http://blog.petermathijssen.nl/cactus-hunt.html"/>
         <id>http://blog.petermathijssen.nl/cactus-hunt.html</id>
+            <category term="aia-file"/>
 
-        <updated>2019-02-10T17:06:01+01:00</updated>
+        <updated>2019-02-10T18:07:55+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/1/publii.png" alt="" />
