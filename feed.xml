@@ -3,12 +3,49 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-02-10T18:26:18+01:00</updated>
+    <updated>2019-02-10T19:43:25+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
     <id>http://blog.petermathijssen.nl</id>
 
+    <entry>
+        <title>Motivational images</title>
+        <author>
+            <name>Peter Mathijssen</name>
+        </author>
+        <link href="http://blog.petermathijssen.nl/motivational-images.html"/>
+        <id>http://blog.petermathijssen.nl/motivational-images.html</id>
+
+        <updated>2019-02-10T19:43:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://blog.petermathijssen.nl/media/posts/6/motivationalimages-01.png" alt="" />
+                    Motivational images that can be used in classrooms LINK TO GITHUB
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://blog.petermathijssen.nl/media/posts/6/motivationalimages-01.png" alt="" />
+                <p>Motivational images that can be used in classrooms</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-12.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-12-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-11.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-11-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-10.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-10-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-09.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-09-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-08.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-08-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-07.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-07-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-06.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-06-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-05.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-05-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-04.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-04-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-03.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-03-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-02.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-02-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-01.png" ><img src="http://blog.petermathijssen.nl/media/posts/6/gallery/motivationalimages-01-thumbnail.png" alt="" width="240" height="240"></a></figure>
+</div>
+<p><a href="https://github.com/PeterMathijssen/motivationalimages" target="_blank" rel="noopener noreferrer">LINK TO GITHUB</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>App Inventor Maker Cards</title>
         <author>
@@ -88,7 +125,7 @@
         <link href="http://blog.petermathijssen.nl/aia-file-structur.html"/>
         <id>http://blog.petermathijssen.nl/aia-file-structur.html</id>
 
-        <updated>2019-02-10T18:09:50+01:00</updated>
+        <updated>2019-02-10T19:26:23+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/3/aiafilestructure.png" alt="" />
@@ -100,7 +137,7 @@
                     <img src="http://blog.petermathijssen.nl/media/posts/3/aiafilestructure.png" alt="" />
                 <p>App inventor allows users to download the project files (or source file) for their projects, which can then be reloaded. </p>
 <p>The aia-file is a zip-file with a different extension. In some cases you will have to rename the aia-file to a zip-file to open it with an archive manager. </p>
-<p>The assets folders hold all files that have been uploaded to the project as an asset. If no assets are associated with a project then there will be no assets folder.<br>If you import an extension a folder named external_comps will be created inside the assets folder. The extension will be uploaded to the external_comps folder. There will be a folder created inside the external_comps folder for every extension.<br><br>The src/appinventor/[username]/[example] folder holds a .blk file and a .scm file for every screen in the project. For example every project will have a Screen1.blk file and a Screen1.scm file. The Screen1.blk file holds all information about the blocks associated with Screen1 and the Screen1.scm file holds information about the layout of Screen1.<br><br>The youngandroidproject folder holds only one file, the project.properties file. This file holds basic information<br>about the project, such as name, main screen and file structure.</p>
+<p>The assets folders hold all files that have been uploaded to the project as an asset. If no assets are associated with a project then there will be no assets folder.<br>If you import an extension a folder named external_comps will be created inside the assets folder. The extension will be uploaded to the external_comps folder. There will be a folder created inside the external_comps folder for every extension.<br><br>The src/appinventor/[username]/[example] folder holds a .blk file and a .scm file for every screen in the project. For example every project will have a Screen1.blk file and a Screen1.scm file. The Screen1.blk file holds all information about the blocks associated with Screen1 and the Screen1.scm file holds information about the layout of Screen1.<br><br>The youngandroidproject folder holds only one file, the project.properties file. This file holds basic information about the project, such as name, main screen and file structure.</p>
             ]]>
         </content>
     </entry>
@@ -137,7 +174,7 @@
         <id>http://blog.petermathijssen.nl/cactus-hunt.html</id>
             <category term="aia-file"/>
 
-        <updated>2019-02-10T18:07:55+01:00</updated>
+        <updated>2019-02-10T19:17:31+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/1/publii.png" alt="" />
@@ -151,7 +188,7 @@
 <p>The phone screams when you touch a cactus. Phones can’t deliver an electric shock yet, else that would have been an option. ;-)</p>
 <p>You are allowed to use the sounds and images.</p>
 <p>All images are from <a href="http://www.pixabay.com/">www.pixabay.com</a> and are in the public domain.</p>
-<p>Sounds are from <a href="https://freesound.org/people/jorickhoofd/sounds/180345/">https://freesound.org/people/jorickhoofd/sounds/180345/</a> with attribution https://creativecommons.org/licenses/by/3.0/</p>
+<p>Sounds are from <a href="https://freesound.org/people/jorickhoofd/sounds/180345/">https://freesound.org/people/jorickhoofd/sounds/180345/</a> with attribution <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener noreferrer">https://creativecommons.org/licenses/by/3.0/</a></p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999316.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999316-thumbnail.png" alt="" width="240" height="240"></a>
 <figcaption class="gallery-description">The layout i made</figcaption>
