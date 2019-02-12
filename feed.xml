@@ -3,7 +3,7 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-02-12T11:12:01+01:00</updated>
+    <updated>2019-02-12T11:18:23+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://blog.petermathijssen.nl/coin-flip.html"/>
         <id>http://blog.petermathijssen.nl/coin-flip.html</id>
 
-        <updated>2019-02-12T11:11:57+01:00</updated>
+        <updated>2019-02-12T11:18:19+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/8/header.png" alt="" />
@@ -45,7 +45,10 @@
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/Selection_999326.png" alt="" width="607" height="623"> </p>
 <p> </p>
 <p>Added some blocks:</p>
-<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/Selection_999327.png" width="1319" height="615"></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/8/gallery/Selection_999329.png" ><img src="http://blog.petermathijssen.nl/media/posts/8/gallery/Selection_999329-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/8/gallery/Selection_999328.png" ><img src="http://blog.petermathijssen.nl/media/posts/8/gallery/Selection_999328-thumbnail.png" alt="" width="240" height="240"></a></figure>
+</div>
 <p>The button click block starts and stops the rotation of the images, gets a random number for one of the sides of the coin, starts and stops the clock and tells which side is choosen.  </p>
 <p>The clock timer block just shows the different images as a button image. </p>
 <p><a href="https://github.com/PeterMathijssen/aia/blob/master/CoinFlip.aia?raw=true" target="_blank" rel="noopener noreferrer">DOWNLOAD THE AIA-FILE</a></p>
