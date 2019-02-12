@@ -3,7 +3,7 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-02-12T11:00:18+01:00</updated>
+    <updated>2019-02-12T11:12:01+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://blog.petermathijssen.nl/coin-flip.html"/>
         <id>http://blog.petermathijssen.nl/coin-flip.html</id>
 
-        <updated>2019-02-12T11:00:11+01:00</updated>
+        <updated>2019-02-12T11:11:57+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/8/header.png" alt="" />
@@ -45,12 +45,12 @@
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/Selection_999326.png" alt="" width="607" height="623"> </p>
 <p> </p>
 <p>Added some blocks:</p>
-<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/Selection_999325.png" alt="" width="1330" height="642"></p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/Selection_999327.png" width="1319" height="615"></p>
 <p>The button click block starts and stops the rotation of the images, gets a random number for one of the sides of the coin, starts and stops the clock and tells which side is choosen.  </p>
 <p>The clock timer block just shows the different images as a button image. </p>
-<p><a href="https://github.com/PeterMathijssen/aia/blob/master/CoinFlip.aia">DOWNLOAD THE AIA-FILE</a></p>
+<p><a href="https://github.com/PeterMathijssen/aia/blob/master/CoinFlip.aia?raw=true" target="_blank" rel="noopener noreferrer">DOWNLOAD THE AIA-FILE</a></p>
 <p><strong>TIP:</strong></p>
-<p>You can use you own currency. All you have to do is turn an animated gif into seperate png-files, for example with this website h<a href="https://ezgif.com/split" target="_blank" rel="noopener noreferrer"></a>ttps://ezgif.com/split and adjust the filenames and number of frames.</p>
+<p>You can use you own currency. All you have to do is turn an animated gif into seperate png-files, for example with this website <a href="https://ezgif.com/split" target="_blank" rel="noopener noreferrer">https://ezgif.com/split</a> and adjust the filenames and number of frames.</p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/WanVerifiableIberianemeraldlizard-max-1mb.gif" alt="" width="285" height="285"><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/1-Euro-Coin-88502.gif" alt="" width="338" height="290"><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/2-Euro-Coin-88503.gif" alt="" width="342" height="290"><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/8/0021.gif" alt="" width="350" height="350"></p>
 <p> </p>
             ]]>
