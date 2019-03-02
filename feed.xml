@@ -3,7 +3,7 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-03-02T10:45:08+01:00</updated>
+    <updated>2019-03-02T11:03:55+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="http://blog.petermathijssen.nl/cookie-clicker.html"/>
         <id>http://blog.petermathijssen.nl/cookie-clicker.html</id>
+            <category term="aia-file"/>
 
-        <updated>2019-03-02T10:45:03+01:00</updated>
+        <updated>2019-03-02T11:03:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/9/header.png" alt="" />
@@ -59,8 +60,9 @@
         </author>
         <link href="http://blog.petermathijssen.nl/coin-flip.html"/>
         <id>http://blog.petermathijssen.nl/coin-flip.html</id>
+            <category term="aia-file"/>
 
-        <updated>2019-02-12T11:18:19+01:00</updated>
+        <updated>2019-03-02T11:03:42+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/8/header.png" alt="" />
