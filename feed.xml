@@ -3,7 +3,7 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-03-02T09:30:35+01:00</updated>
+    <updated>2019-03-02T09:38:51+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://blog.petermathijssen.nl/cookie-clicker.html"/>
         <id>http://blog.petermathijssen.nl/cookie-clicker.html</id>
 
-        <updated>2019-03-02T09:30:30+01:00</updated>
+        <updated>2019-03-02T09:38:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/9/header.png" alt="" />
@@ -34,7 +34,7 @@
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/9/Selection_999356.png" alt="" width="1328" height="479"></p>
 <p>These blocks show or hide the shade and make the cookie bigger and smaller again. The touched event updates the score.</p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/9/Selection_999357.png" alt="" width="960" height="310"></p>
-<p>After growing and shrinking the coookieall sprites are centered again on the screen. </p>
+<p>After growing and shrinking the coookie all sprites are centered again on the screen. </p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/9/Selection_999358.png" alt="" width="682" height="135"></p>
 <p>This timer let the rays spin in opposite directions.</p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/9/Selection_999359.png" alt="" width="621" height="266"></p>
