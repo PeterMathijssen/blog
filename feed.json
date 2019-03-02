@@ -15,14 +15,14 @@
             "title": "Cookie Clicker",
             "summary": "Cookie Clickers are more popular then i thought. App Inventor is very&hellip;",
             "content_html": "<p>Cookie Clickers are more popular then i thought. App Inventor is very suited to make these kind of games. There are a number of App Inventor users making them as you can see when you search the Gallery from inside App Inventor.</p>\n<p>What most or all of them lack though is the rotating rays and the push animation when you make them. </p>\n<p><img class=\"post__image\" src=\"http://blog.petermathijssen.nl/media/posts/9/Peek-2019-03-02-08-39.gif\" alt=\"\" width=\"218\" height=\"732\"></p>\n<p>So i made a sample aia file for you to use as a starting point for you own version. It uses only the basic app inventor components and no extensions. </p>\n<p><img class=\"post__image\" src=\"http://blog.petermathijssen.nl/media/posts/9/Selection_999356.png\" alt=\"\" width=\"1328\" height=\"479\"></p>\n<p>These blocks show or hide the shade and make the cookie bigger and smaller again. The touched event updates the score.</p>\n<p><img class=\"post__image\" src=\"http://blog.petermathijssen.nl/media/posts/9/Selection_999357.png\" alt=\"\" width=\"960\" height=\"310\"></p>\n<p>After growing and shrinking the coookieall sprites are centered again on the screen. </p>\n<p><img class=\"post__image\" src=\"http://blog.petermathijssen.nl/media/posts/9/Selection_999358.png\" alt=\"\" width=\"682\" height=\"135\"></p>\n<p>This timer let the rays spin in opposite directions.</p>\n<p><img class=\"post__image\" src=\"http://blog.petermathijssen.nl/media/posts/9/Selection_999359.png\" alt=\"\" width=\"621\" height=\"266\"></p>\n<p>This timer shows the animated background. They are 35 separate png files shown one after another giving the animated effect.</p>\n<p><img class=\"post__image\" src=\"http://blog.petermathijssen.nl/media/posts/9/Selection_999361.png\" alt=\"\" width=\"571\" height=\"356\"></p>\n<p>This initialize screen is making a list of sprites used so it will be easier to align them all. It also sets the text of the number of cookies clicked label. </p>\n<p>You see you don't need much to get the graphics effect of the original Cookie Clicker.</p>\n<p><a href=\"https://github.com/PeterMathijssen/aia/blob/master/spacecookieclicker_publii.aia?raw=true\" target=\"_blank\" rel=\"noopener noreferrer\">Here is the aia-file</a>. It is big because of the background images. </p>\n<p>Have fun making your own Cookie Clicker game.</p>\n<p>Thanks to <a href=\"https://community.appybuilder.com/t/incremental-games-vs-earning-app/24149\" target=\"_blank\" rel=\"noopener noreferrer\">7heD3D</a> for the inspiration.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
-            "image": "http://blog.petermathijssen.nl/media/posts/9/Peek-2019-03-02-08-39.gif",
+            "image": "http://blog.petermathijssen.nl/media/posts/9/header.png",
             "author": {
                 "name": "Peter Mathijssen"
             },
             "tags": [
             ],
             "date_published": "2019-03-02T09:02:35+01:00",
-            "date_modified": "2019-03-02T09:02:35+01:00"
+            "date_modified": "2019-03-02T09:17:10+01:00"
         },
         {
             "id": "http://blog.petermathijssen.nl/coin-flip.html",
