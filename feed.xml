@@ -3,7 +3,7 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-03-14T09:41:03+01:00</updated>
+    <updated>2019-03-14T09:48:14+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://blog.petermathijssen.nl/open-dyslexic-maker-cards.html"/>
         <id>http://blog.petermathijssen.nl/open-dyslexic-maker-cards.html</id>
 
-        <updated>2019-03-14T09:40:56+01:00</updated>
+        <updated>2019-03-14T09:48:09+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/10/Selection_999387.png" alt="" />
@@ -28,9 +28,10 @@
             <![CDATA[
                     <img src="http://blog.petermathijssen.nl/media/posts/10/Selection_999387.png" alt="" />
                 <p>Because of a discussion in a topic with a user of App Inventor that is also Dyslexic i searched for a Font type that could be used for the Maker Cards,</p>
-<p>I found the OpenDyslexic font https://www.opendyslexic.org/</p>
-<p>You can find the png, pdf and odg files <a href="https://github.com/PeterMathijssen/appinventormakercards" target="_blank" rel="noopener noreferrer">here</a> so you can translate them in your own language. </p>
-<p>The App Inventor development team is interested in using OpenDyslexic as an option in the designer and block editor. </p>
+<p>I found the OpenDyslexic font <a href="https://www.opendyslexic.org/">https://www.opendyslexic.org/</a> </p>
+<p>I transformed my Maker Cards so they used the OpenDyslexic font. Because of the fact that OpenDyslexic uses a lot of whitespace i had to change the size of the cards.</p>
+<p>You can find the png, pdf and odg files <a href="https://github.com/PeterMathijssen/appinventormakercards" target="_blank" rel="noopener noreferrer">here</a> for you to use or if you want you can translate them into your own language. </p>
+<p><strong>The App Inventor development team is interested in using OpenDyslexic as an option in the designer and block editor. </strong></p>
 <p>If you want to use OpenDyslexic font with App Inventor you can use this <a href="https://chrome.google.com/webstore/detail/opendyslexic-font-for-chr/cdnapgfjopgaggbmfgbiinmmbdcglnam" target="_blank" rel="noopener noreferrer">Chrome Extension</a>.</p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/10/Selection_999380.png" alt="" width="1299" height="825"></p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/10/Selection_999381.png" alt="" width="823" height="487"></p>
