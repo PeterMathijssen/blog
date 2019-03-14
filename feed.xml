@@ -3,12 +3,54 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-03-02T11:03:55+01:00</updated>
+    <updated>2019-03-14T09:41:03+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
     <id>http://blog.petermathijssen.nl</id>
 
+    <entry>
+        <title>Open Dyslexic Maker Cards</title>
+        <author>
+            <name>Peter Mathijssen</name>
+        </author>
+        <link href="http://blog.petermathijssen.nl/open-dyslexic-maker-cards.html"/>
+        <id>http://blog.petermathijssen.nl/open-dyslexic-maker-cards.html</id>
+
+        <updated>2019-03-14T09:40:56+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://blog.petermathijssen.nl/media/posts/10/Selection_999387.png" alt="" />
+                    Because of a discussion in a topic with a user of App&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://blog.petermathijssen.nl/media/posts/10/Selection_999387.png" alt="" />
+                <p>Because of a discussion in a topic with a user of App Inventor that is also Dyslexic i searched for a Font type that could be used for the Maker Cards,</p>
+<p>I found the OpenDyslexic font https://www.opendyslexic.org/</p>
+<p>You can find the png, pdf and odg files <a href="https://github.com/PeterMathijssen/appinventormakercards" target="_blank" rel="noopener noreferrer">here</a> so you can translate them in your own language. </p>
+<p>The App Inventor development team is interested in using OpenDyslexic as an option in the designer and block editor. </p>
+<p>If you want to use OpenDyslexic font with App Inventor you can use this <a href="https://chrome.google.com/webstore/detail/opendyslexic-font-for-chr/cdnapgfjopgaggbmfgbiinmmbdcglnam" target="_blank" rel="noopener noreferrer">Chrome Extension</a>.</p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/10/Selection_999380.png" alt="" width="1299" height="825"></p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/10/Selection_999381.png" alt="" width="823" height="487"></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-12.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-12-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-11.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-11-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-10.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-10-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-09.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-09-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-08.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-08-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-07.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-07-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-06.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-06-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-05.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-05-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-04.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-04-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-03.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-03-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-02.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-02-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-01.png" ><img src="http://blog.petermathijssen.nl/media/posts/10/gallery/MakerCardsAppInventorOpenDyslexic-01-thumbnail.png" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cookie Clicker</title>
         <author>
@@ -16,7 +58,6 @@
         </author>
         <link href="http://blog.petermathijssen.nl/cookie-clicker.html"/>
         <id>http://blog.petermathijssen.nl/cookie-clicker.html</id>
-            <category term="aia-file"/>
 
         <updated>2019-03-02T11:03:48+01:00</updated>
             <summary>
@@ -60,7 +101,6 @@
         </author>
         <link href="http://blog.petermathijssen.nl/coin-flip.html"/>
         <id>http://blog.petermathijssen.nl/coin-flip.html</id>
-            <category term="aia-file"/>
 
         <updated>2019-03-02T11:03:42+01:00</updated>
             <summary>
@@ -317,7 +357,6 @@
         </author>
         <link href="http://blog.petermathijssen.nl/cactus-hunt.html"/>
         <id>http://blog.petermathijssen.nl/cactus-hunt.html</id>
-            <category term="aia-file"/>
 
         <updated>2019-02-10T19:17:31+01:00</updated>
             <summary>
