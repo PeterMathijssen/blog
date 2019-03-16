@@ -3,7 +3,7 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-03-14T09:48:14+01:00</updated>
+    <updated>2019-03-16T05:12:41+01:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
@@ -60,7 +60,7 @@
         <link href="http://blog.petermathijssen.nl/cookie-clicker.html"/>
         <id>http://blog.petermathijssen.nl/cookie-clicker.html</id>
 
-        <updated>2019-03-02T11:03:48+01:00</updated>
+        <updated>2019-03-16T05:12:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/9/header.png" alt="" />
@@ -73,7 +73,7 @@
                 <p>Cookie Clickers are more popular then i thought. App Inventor is very suited to make these kind of games. There are a number of App Inventor users making them as you can see when you search the Gallery from inside App Inventor.</p>
 <p>What most or all of them lack though is the rotating rays and the push animation when you click the cookie. </p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/9/Peek-2019-03-02-08-39.gif" alt="" width="218" height="732"></p>
-<p>So i made a sample aia file for you to use as a starting point for you own version. It uses only the basic app inventor components and no extensions. </p>
+<p>So i made a sample aia file for you to use as a starting point for your own version. It uses only the basic app inventor components and no extensions. </p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/9/Selection_999356.png" alt="" width="1328" height="479"></p>
 <p>These blocks show or hide the shade and make the cookie bigger and smaller again. The touched event updates the score.</p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/9/Selection_999357.png" alt="" width="960" height="310"></p>
