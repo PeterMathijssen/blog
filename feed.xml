@@ -3,7 +3,7 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-06-04T10:14:40+02:00</updated>
+    <updated>2019-06-04T11:42:45+02:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://blog.petermathijssen.nl/submariner.html"/>
         <id>http://blog.petermathijssen.nl/submariner.html</id>
 
-        <updated>2019-06-04T10:14:35+02:00</updated>
+        <updated>2019-06-04T11:42:40+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/11/functie.png" alt="" />
@@ -33,8 +33,8 @@
 <p>I used the tools extension from Taifun. <a href="https://puravidaapps.com/tools.php" target="_blank" rel="noopener noreferrer">https://puravidaapps.com/tools.php</a></p>
 <p>The image is from <a href="https://pixabay.com/vectors/dive-scuba-ocean-sea-water-fish-4219524/">https://pixabay.com/vectors/dive-scuba-ocean-sea-water-fish-4219524/</a></p>
 <p>The sonar effect is from <a href="http://www.orangefreesounds.com/sonar-sound-effect/">http://www.orangefreesounds.com/sonar-sound-effect/</a></p>
-<p>In the aia-file the images and sound effects are all present. I used the following blocks. If you don't want to use the aia, you can drag and drop the blocks from this page in the block editor of App Inventor. The images contain the XML code of the blocks and will be build in the blockseditor. Make sure you have all the components in the designer before you drag and drop the images. </p>
-<p>In this block is set is so that the screen will always keep on. During the game you don't touch the screen and it would blackout after some time. The sonar sound is played, the submarine is centered on the screen and the hi-score is loaded from the TinyDB.</p>
+<p>In the aia-file the images and sound effects are all present. </p>
+<p>In this block i set it so that the screen will always be on. During the game you don't touch the screen and it would blackout after some time. The sonar sound is played, the submarine is centered on the screen and the hi-score is loaded from the TinyDB.</p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/4.png" alt="" width="548" height="194"></p>
 <p>This is the routine that centers the sprite on the screen. </p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/7.png" alt="" width="868" height="160"></p>
