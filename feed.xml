@@ -3,7 +3,7 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-06-04T11:44:56+02:00</updated>
+    <updated>2019-06-04T21:29:55+02:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://blog.petermathijssen.nl/submariner.html"/>
         <id>http://blog.petermathijssen.nl/submariner.html</id>
 
-        <updated>2019-06-04T11:44:51+02:00</updated>
+        <updated>2019-06-04T21:29:50+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://blog.petermathijssen.nl/media/posts/11/functie.png" alt="" />
@@ -49,6 +49,7 @@
 <p>This block adds 1 to the score every second. </p>
 <p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/1.png" alt="" width="503" height="76"></p>
 <p><a href="https://github.com/PeterMathijssen/aia/blob/master/submariner.aia" target="_blank" rel="noopener noreferrer">Here</a> you can downloade the aia-file.</p>
+<p><a href="https://play.google.com/store/apps/details?id=appinventor.ai_pmathijssen.submariner" target="_blank" rel="noopener noreferrer">Link</a> to the app on Google Play. </p>
 <p> </p>
 <p> </p>
             ]]>
