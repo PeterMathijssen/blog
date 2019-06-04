@@ -3,12 +3,57 @@
     <title>App Inventor Cookbook</title>
     <link href="http://blog.petermathijssen.nl/feed.xml" rel="self" />
     <link href="http://blog.petermathijssen.nl" />
-    <updated>2019-03-16T05:12:41+01:00</updated>
+    <updated>2019-06-04T10:09:03+02:00</updated>
     <author>
         <name>Peter Mathijssen</name>
     </author>
     <id>http://blog.petermathijssen.nl</id>
 
+    <entry>
+        <title>Submariner</title>
+        <author>
+            <name>Peter Mathijssen</name>
+        </author>
+        <link href="http://blog.petermathijssen.nl/submariner.html"/>
+        <id>http://blog.petermathijssen.nl/submariner.html</id>
+
+        <updated>2019-06-04T10:08:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://blog.petermathijssen.nl/media/posts/11/functie.png" alt="" />
+                    This is a small tutorial about a game i made. It is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://blog.petermathijssen.nl/media/posts/11/functie.png" alt="" />
+                <p>This is a small tutorial about a game i made. It is called Submariner. Object of the game is to move the sprite around the screen without touching the edges of your screen. You move the sprite bij tilting the phone. </p>
+<p>This is how the end result looks. </p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/Screenshot_20190602-171222.png" alt="" width="500" height="1920"></p>
+<p>I used the tools extension from Taifun. <a href="https://puravidaapps.com/tools.php" target="_blank" rel="noopener noreferrer">https://puravidaapps.com/tools.php</a></p>
+<p>The image is from <a href="https://pixabay.com/vectors/dive-scuba-ocean-sea-water-fish-4219524/">https://pixabay.com/vectors/dive-scuba-ocean-sea-water-fish-4219524/</a></p>
+<p>The sonar effect is from <a href="http://www.orangefreesounds.com/sonar-sound-effect/">http://www.orangefreesounds.com/sonar-sound-effect/</a></p>
+<p>In the aia-file the images and sound effects are all present. I used the following blocks. If you don't want to use the aia, you can drag and drop the blocks from this page in the block editor of App Inventor. The images contain the XML code of the blocks and will be build in the blockseditor. Make sure you have all the components in the designer before you drag and drop the images. </p>
+<p>In this block is set is so that the screen will always keep on. During the game you don't touch the screen and it would blackout after some time. The sonar sound is played, the submarine is centered on the screen and the hi-score is loaded from the TinyDB.</p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/4.png" alt="" width="548" height="194"></p>
+<p>This is the routine that centers the sprite on the screen. </p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/7.png" alt="" width="868" height="160"></p>
+<p>This routine lets the submarine move. It uses the pitch and roll property of the orientationssensor. Looking at the value of pitch and roll the heading of the submarine is changed. </p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/6.png" alt="" width="591" height="382"></p>
+<p>When you touch the edge of the screen with your submarine the clock that is counting the seconds is stopped. The speed of the submarine is set to 0 so it stops. The sound of the sonar stops. A dialog is opened. The message displayed is depended on the value of your score. If the value of the score is higher then the hi-score it is saved in the TinyDB. You get the choice to play again or to quit. </p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/5.png" alt="" width="721" height="591"></p>
+<p>If you choose quit the block dontkeepscreenon is executed and the screen is closed. If you choose again the sound is started, the sprite is centered on the screen, the score is set to zero, the clock that counts the second is reset to 0. The image sprite is set to 2 and the value of the tag hiscore in the TinyDB is put in label6. </p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/3.png" alt="" width="598" height="410"></p>
+<p>This block adds 1 to the speed of the submarine every minute. </p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/2.png" alt="" width="620" height="76"></p>
+<p>This block adds 1 to the score every second. </p>
+<p><img class="post__image" src="http://blog.petermathijssen.nl/media/posts/11/1.png" alt="" width="503" height="76"></p>
+<p><a href="https://github.com/PeterMathijssen/aia/blob/master/submariner.aia" target="_blank" rel="noopener noreferrer">Here</a> you can downloade the aia-file.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Open Dyslexic Maker Cards</title>
         <author>
@@ -348,71 +393,6 @@
                 <p>SVG versions of the App Inventorblocks to be used in tutorials or in the classroom.</p>
 <p>Font used is <a href="https://www.dafont.com/digitalt.font" target="_blank" rel="nofollow noopener noreferrer">https://www.dafont.com/digitalt.font</a></p>
 <p><a href="https://github.com/PeterMathijssen/appinventorblocks" target="_blank" rel="noopener noreferrer">LINK TO SVG FILES ON GITHUB</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cactus Hunt</title>
-        <author>
-            <name>Peter Mathijssen</name>
-        </author>
-        <link href="http://blog.petermathijssen.nl/cactus-hunt.html"/>
-        <id>http://blog.petermathijssen.nl/cactus-hunt.html</id>
-
-        <updated>2019-02-10T19:17:31+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://blog.petermathijssen.nl/media/posts/1/publii.png" alt="" />
-                    There are three sizes of cactuses. Depending on which one you click&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://blog.petermathijssen.nl/media/posts/1/publii.png" alt="" />
-                <p>There are three sizes of cactuses. Depending on which one you click you get 1, 2 or 3 points. Pressing reset restarts the count at zero.</p>
-<p>The phone screams when you touch a cactus. Phones can’t deliver an electric shock yet, else that would have been an option. ;-)</p>
-<p>You are allowed to use the sounds and images.</p>
-<p>All images are from <a href="http://www.pixabay.com/">www.pixabay.com</a> and are in the public domain.</p>
-<p>Sounds are from <a href="https://freesound.org/people/jorickhoofd/sounds/180345/">https://freesound.org/people/jorickhoofd/sounds/180345/</a> with attribution <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener noreferrer">https://creativecommons.org/licenses/by/3.0/</a></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999316.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999316-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">The layout i made</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999317.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999317-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">All the components i used</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999318.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999318-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">All the assets i used</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999319.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999319-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">Defining lists</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999309.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999309-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">What should happen when the app opens</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999315.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999315-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">Add to score depending on the size of the cactus. Play a sound</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999314.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999314-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">What if you only hit the canvas</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999313.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999313-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">Update score</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999312.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999312-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">Ask to reset the score</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999311.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999311-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">What if yes is choosen</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999310.png" ><img src="http://blog.petermathijssen.nl/media/posts/1/gallery/Selection_999310-thumbnail.png" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">Put a cactus random on the canvas</figcaption>
-</figure>
-</div>
-<p><a href="https://github.com/PeterMathijssen/aia/raw/master/cactushunt.aia" target="_blank" rel="noopener noreferrer">DOWNLOAD AIA FILE</a></p>
-<p> </p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
